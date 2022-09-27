@@ -3,45 +3,55 @@
 }
 
 body {
-    background-color: #EAEAEA;
+    background-color: black;
 }
+
 p {
     font-size: 18px;
 }
+
 header {
-    background-color: white;
+    background-color: blueviolet;
     width: 100%;
 }
+
 header h1 {
     text-align: center;
     padding: 20px;
     padding-right: 8.8em;
 }
+
 section {
     margin-top: 60px;
     background-color: white;
     max-width: 610px;
 }
+
 img {
     width: 100%;
 }
+
 .feeds {
     margin: auto;
     width: 50%;
     padding: 10px;
     width: 610px;
 }
-.feedInfo {
+
+.textoDescripcion {
     padding: 12px;
 }
-.feedInfo h2 {
+
+.textoDescripcion h2 {
     display: inline-block;
 }
-.feedInfo p {
+
+.textoDescripcion p {
     float: right;
     padding-top: 5px;
     color: #BBBFC9;
 }
-.feedIntro {
+
+.textoTitulo {
     padding: 15px;
 }
